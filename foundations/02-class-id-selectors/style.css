@@ -1,0 +1,19 @@
+body :nth-child(odd) {
+    background-color: #FF8888;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+body :nth-child(2) {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+body :nth-child(3) {
+    font-size: 24px;
+}
+
+body :nth-child(4) {
+    background-color: #88FF88;
+    font-size: 24px;
+    font-weight: bold;
+}
